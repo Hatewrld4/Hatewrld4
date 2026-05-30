@@ -1,4 +1,4 @@
-# Hi, I'm Illya! 👋
+# Hi, I'm Illia! 👋
 
 I'm a Junior Python Developer who builds useful Telegram bots and is passionate about automating routine processes. I'm always looking for ways to optimize code and learn something new.
 

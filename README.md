@@ -14,5 +14,5 @@ I'm a Junior Python Developer who builds useful Telegram bots and is passionate 
 * 📓 **[Telegram Notes Bot](https://github.com/Hatewrld4/telegram-notes-bot)** — A lightweight bot for saving and organizing text notes.
 
 ## 📫 How to reach me
-* **Telegram:** [@hatewrld4
+* **Telegram:** [@hatewrld4]
 * **Email:** [ilamoskovec5@gmail.com]
